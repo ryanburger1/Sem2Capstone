@@ -28,7 +28,7 @@ My final and draft notebook can both be found at the link below:
 
 ### Presentation 
 The presentation has an overview of the business problem, more information about the data, explanation of what I found in the data exploration, model evaluation and my final recommendation. 
--[ADD Presentation LINK]()
+- [ADD Presentation LINK]()
 
 ## Navagating Repository 
 - Click [here INSERT LINK]() to be sent back to the home page of my repository. 
