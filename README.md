@@ -7,7 +7,8 @@ In this project I was charged with exploring what price causes the typical cosme
 ## Data Science Steps 
 
 ### Obtaining 
-I obtained my data from kaggle and moved it into my repository. Below I have attached a link to the data set that you need to download in order to run the notebook: [eCommerce Data](https://www.kaggle.com/datasets/nowingkim/ecommerce-data-cosmetics-shop)
+I obtained my data from kaggle and moved it into my repository. Below I have attached a link to the data set that you need to download in order to run the notebook:
+- [eCommerce Data](https://www.kaggle.com/datasets/nowingkim/ecommerce-data-cosmetics-shop)
 
 ### Cleaning 
 There was couple cleaning steps that needed to be taken before procceeding with the analysis. First, I made a seperate data frame with only the columns that I would need to run my analysis. Second, I removed any price's that were equal to zero since this would mean that they were not making a profit of the product sold. 
