@@ -24,17 +24,16 @@ After modeling my data I connected it back to the original business problem to c
 ## Sources 
 
 ### Notebooks 
-My final and draft notebook can both be found at the link below: 
-- [ADD Notebooks LINK]()
+My final notebook can both be found at the link below: 
+- [Notebook](https://github.com/ryanburger1/Sem2Capstone/blob/main/Final%20Notebook.ipynb)
 
 ### Presentation 
 The presentation has an overview of the business problem, more information about the data, explanation of what I found in the data exploration, model evaluation and my final recommendation. 
-- [ADD Presentation LINK]()
+- [Presentation](https://github.com/ryanburger1/Sem2Capstone/blob/main/Capstone2%20Presentation%20.pptx)
 
 ## Navagating Repository 
-- Click [here INSERT LINK]() to be sent back to the home page of my repository. 
-- Download the [dataset INSERT]() from kaggle to be able to run the code
-- Go to the notebooks folder and you will find both draft and [Final Notebooks INSERT LINK]()
+- Click [here](https://github.com/ryanburger1/Sem2Capstone) to be sent back to the home page of my repository. 
+- Download the [dataset](https://www.kaggle.com/datasets/nowingkim/ecommerce-data-cosmetics-shop) from kaggle to be able to run the code
 
 ## Libraries 
 Below I have complied a list of the different libraries I used in my code: 
@@ -46,9 +45,8 @@ Below I have complied a list of the different libraries I used in my code:
 - Logistic Regression 
 
 ### Recommendations 
-During my analysis my goal was the find what dollar amount was causes more customers to remove data from there cart then purchase the item. I was able to concluded at $INSERT the amount of customers more customers started to remove items from their cart. 
+During my analysis my goal was the find what dollar amount was causes more customers to remove data from there cart then purchase the item. I was able to concluded at $200 the amount of customers started to remove items from their cart increased. 
 
 My two reccomendations for cosmetics companies are: 
-- Price less items above $INSERT AMOUNT 
-- Have less of the higher priced items in your inventory at one time 
+- Price less items priced above $200
 - Look into having a sale on the higher priced items that you currently have that are not selling
