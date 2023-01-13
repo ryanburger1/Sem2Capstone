@@ -1,5 +1,4 @@
-# Sem2Capstone
-![](https://media.giphy.com/media/l1mPNJwPR8Cq5yS6lQ/giphy.gif)
+# Cosmetic Analysis
 
 ## Summary 
 In this project I was charged with exploring what price causes the typical cosmetics consumer to remove a product from their cart and not buy it. In my analysis I was able to take my findings and come up with the ideal price point for any cosmetic company to not sell their product above. 
